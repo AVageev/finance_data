@@ -1,0 +1,19 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Парсер Tinkoff</title>
+</head>
+<body>
+<h2>Расчёт волатильности</h2>
+<form method="post">
+    {% csrf_token %}
+    <label>Тикер: <input type="text" name="ticker" required></label><br>
+    <button type="submit">Рассчитать</button>
+</form>
+
+<p>{{ message }}</p>
+
+</body>
+</html>

@@ -1,0 +1,95 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>ИС Сбора Данных — Главная</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+
+<header>
+    <h1>📈 Информационная система сбора и анализа котировок</h1>
+</header>
+
+<nav>
+    <a href="/">🏠 Главная</a>
+    <a href="/correlation/">📊 Рассчитать корреляции</a>
+    <a href="https://docs.google.com/spreadsheets/d/14dUpg8rIr7FYbR74QRFGwBxYY12f1xvo1tIOOf-HjPE/edit?usp=sharing" target="_blank">
+            📂 Открыть данные
+    </a>
+</nav>
+
+<div class="container">
+
+    <div class="section">
+        <h2>▶️ Запуск парсера</h2>
+        <form method="post">
+            {% csrf_token %}
+            <button type="submit">Запустить сбор данных</button>
+        </form>
+        <a class="link-button" href="https://docs.google.com/spreadsheets/d/14dUpg8rIr7FYbR74QRFGwBxYY12f1xvo1tIOOf-HjPE/edit?usp=sharing" target="_blank">
+            📄 Посмотреть результаты в Google Таблице
+        </a>
+    </div>
+
+    {% if top_correlations %}
+    <h2>🔝 Топ-10 коррелирующих пар</h2>
+    <table>
+        <tr><th>#</th><th>Акция A</th><th>Акция B</th><th>Коэффициент</th></tr>
+        {% for row in top_correlations %}
+            <tr>
+                <td>{{ forloop.counter }}</td>
+                <td>{{ row.ticker1 }}</td>
+                <td>{{ row.ticker2 }}</td>
+                <td>{{ row.correlation|floatformat:4 }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+    {% endif %}
+
+    <div class="section">
+        <h2>📈 Лидеры роста и падения за сутки</h2>
+        <div style="display: flex; gap: 20px; flex-wrap: wrap;">
+            <div style="flex: 1; min-width: 250px;">
+                <h3 style="color: green;">📈 Лидеры роста</h3>
+                <table>
+                    <tr>
+                        <th>Тикер</th>
+                        <th>Изменение</th>
+                    </tr>
+                    {% for item in growth_data.leaders_up %}
+                    <tr>
+                        <td>{{ item.ticker }}</td>
+                        <td style="color:green;">+{{ item.growth_percent|floatformat:2 }}%</td>
+                    </tr>
+                    {% empty %}
+                    <tr><td colspan="2">Нет данных</td></tr>
+                    {% endfor %}
+                </table>
+            </div>
+
+            <div style="flex: 1; min-width: 250px;">
+                <h3 style="color: red;">📉 Лидеры падения</h3>
+                <table>
+                    <tr>
+                        <th>Тикер</th>
+                        <th>Изменение</th>
+                    </tr>
+                    {% for item in growth_data.leaders_down %}
+                    <tr>
+                        <td>{{ item.ticker }}</td>
+                        <td style="color:red;">{{ item.growth_percent|floatformat:2 }}%</td>
+                    </tr>
+                    {% empty %}
+                    <tr><td colspan="2">Нет данных</td></tr>
+                    {% endfor %}
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>

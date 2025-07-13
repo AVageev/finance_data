@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>📊 Расчёт корреляции</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+
+<div class="container">
+    <h2>📊 Расчёт корреляции</h2>
+
+    <form method="post">
+        {% csrf_token %}
+        <label for="ticker1">Тикер 1:</label>
+        <input type="text" name="ticker1" id="ticker1" placeholder="например, SBER" required>
+
+        <label for="ticker2">Тикер 2:</label>
+        <input type="text" name="ticker2" id="ticker2" placeholder="например, GAZP" required>
+
+        <button type="submit">Рассчитать</button>
+    </form>
+
+    {% if message %}
+    <div class="result {% if 'ошибка' in message|lower %}error{% endif %}">
+        <p>{{ message }}</p>
+
+        {% if correlation %}
+            <p>Коэффициент корреляции: 
+                <span class="correlation-value">
+                    {{ correlation|floatformat:4 }}
+                </span>
+            </p>
+        {% endif %}
+    </div>
+    {% endif %}
+
+    <a class="back-link" href="/">← Вернуться на главную</a>
+</div>
+
+</body>
+</html>

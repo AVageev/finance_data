@@ -1,0 +1,3867 @@
+[
+  {
+    "ticker1": "SBER",
+    "ticker2": "LKOH",
+    "correlation": -0.2539671388693569
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "GAZP",
+    "correlation": 0.8384592424286174
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "TATN",
+    "correlation": 0.16377008894147735
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "NVTK",
+    "correlation": 0.805542401844215
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "GMKN",
+    "correlation": 0.8593439246081238
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "YNDX",
+    "correlation": null
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "MGNT",
+    "correlation": 0.26406009283032666
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "MTSS",
+    "correlation": 0.5814726243083853
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "SNGS",
+    "correlation": 0.2272742976959224
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "SNGSP",
+    "correlation": 0.807792015406385
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "CHMF",
+    "correlation": 0.8762547556042628
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "ALRS",
+    "correlation": 0.8697547404718314
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "PLZL",
+    "correlation": 0.8632816330880171
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "PHOR",
+    "correlation": -0.5642969705666192
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "IRAO",
+    "correlation": 0.8030869370623582
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "NLMK",
+    "correlation": 0.7230063852683438
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "HYDR",
+    "correlation": -0.25141681831318363
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "AFLT",
+    "correlation": 0.7092738925211592
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "MOEX",
+    "correlation": 0.7341982217025633
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "VTBR",
+    "correlation": 0.22002866781511307
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "MAGN",
+    "correlation": 0.9160980416529974
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "RTKM",
+    "correlation": 0.8675227875790812
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "UPRO",
+    "correlation": -0.04047259978419926
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "TRNFP",
+    "correlation": 0.6313793031346836
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "MVID",
+    "correlation": 0.5301890128659118
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "PIKK",
+    "correlation": 0.9437511401951741
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "AFKS",
+    "correlation": 0.7250839499513573
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "SFIN",
+    "correlation": -0.10484162198508282
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "LSRG",
+    "correlation": 0.5991198164482056
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "CBOM",
+    "correlation": 0.8744496187518571
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "RNFT",
+    "correlation": -0.5395099518507254
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "RUAL",
+    "correlation": 0.7231362614007206
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "SNGSP",
+    "correlation": 0.807792015406385
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "TATNP",
+    "correlation": 0.006614392869113114
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "RTKMP",
+    "correlation": 0.734727153966614
+  },
+  {
+    "ticker1": "SBER",
+    "ticker2": "TRNFP",
+    "correlation": 0.6313793031346836
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "GAZP",
+    "correlation": 0.013591950118783275
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "TATN",
+    "correlation": 0.5379632772531311
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "NVTK",
+    "correlation": -0.07562128178686234
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "GMKN",
+    "correlation": -0.20368992794238275
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "YNDX",
+    "correlation": null
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "MGNT",
+    "correlation": 0.5299696783322063
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "MTSS",
+    "correlation": -0.36551614913017755
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "SNGS",
+    "correlation": 0.5337865852461618
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "SNGSP",
+    "correlation": -0.2854291363940866
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "CHMF",
+    "correlation": -0.11738788208695741
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "ALRS",
+    "correlation": -0.1753926824050595
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "PLZL",
+    "correlation": -0.13228093317195685
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "PHOR",
+    "correlation": -0.11947809395972836
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "IRAO",
+    "correlation": -0.002581056865468049
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "NLMK",
+    "correlation": 0.21718410260575474
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "HYDR",
+    "correlation": 0.18039950454137144
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "AFLT",
+    "correlation": -0.15851764084647887
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "MOEX",
+    "correlation": -0.4837075586828668
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "VTBR",
+    "correlation": -0.531457723852876
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "MAGN",
+    "correlation": -0.1610643203704714
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "RTKM",
+    "correlation": -0.30223471265823154
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "UPRO",
+    "correlation": 0.18764483817625555
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "TRNFP",
+    "correlation": -0.5426183410259894
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "MVID",
+    "correlation": -0.27882050119724083
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "PIKK",
+    "correlation": -0.2273420342649763
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "AFKS",
+    "correlation": 0.10389499118928194
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "SFIN",
+    "correlation": 0.38802142216221286
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "LSRG",
+    "correlation": -0.4334970040202331
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "CBOM",
+    "correlation": -0.41045886170626344
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "RNFT",
+    "correlation": 0.7233236571571864
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "RUAL",
+    "correlation": -0.15763029299634335
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "SNGSP",
+    "correlation": -0.2854291363940866
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "TATNP",
+    "correlation": 0.6782186808440692
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "SBERP",
+    "correlation": -0.1750876215656448
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "RTKMP",
+    "correlation": -0.47271141518299686
+  },
+  {
+    "ticker1": "LKOH",
+    "ticker2": "TRNFP",
+    "correlation": -0.5426183410259894
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "TATN",
+    "correlation": 0.4905665280283916
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "NVTK",
+    "correlation": 0.9202580778180925
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "GMKN",
+    "correlation": 0.8824853339118668
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "YNDX",
+    "correlation": null
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "MGNT",
+    "correlation": 0.19594755426070964
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "MTSS",
+    "correlation": 0.6858033889013248
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "SNGS",
+    "correlation": 0.38623978734923736
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "SNGSP",
+    "correlation": 0.8182643365905821
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "CHMF",
+    "correlation": 0.8615341172668806
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "ALRS",
+    "correlation": 0.8615630126660094
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "PLZL",
+    "correlation": 0.8339874385185843
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "PHOR",
+    "correlation": -0.39551418422656104
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "IRAO",
+    "correlation": 0.8906801970051841
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "NLMK",
+    "correlation": 0.6369657787130969
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "HYDR",
+    "correlation": -0.13107934706336902
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "AFLT",
+    "correlation": 0.6997049686765329
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "MOEX",
+    "correlation": 0.7629483320256831
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "VTBR",
+    "correlation": 0.37840201535034246
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "MAGN",
+    "correlation": 0.9052930995291882
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "RTKM",
+    "correlation": 0.8090302495032083
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "UPRO",
+    "correlation": 0.11380531823290517
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "TRNFP",
+    "correlation": 0.5996177197443835
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "MVID",
+    "correlation": 0.6849249979196377
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "PIKK",
+    "correlation": 0.7834078673791263
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "AFKS",
+    "correlation": 0.5706092504902351
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "SFIN",
+    "correlation": 0.01598454482114588
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "LSRG",
+    "correlation": 0.713160263510582
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "CBOM",
+    "correlation": 0.8397586234360741
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "RNFT",
+    "correlation": -0.3926116903920729
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "RUAL",
+    "correlation": 0.8100495613267447
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "SNGSP",
+    "correlation": 0.8182643365905821
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "TATNP",
+    "correlation": 0.36465897001894715
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "SBERP",
+    "correlation": 0.8242318062473291
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "RTKMP",
+    "correlation": 0.7520207022965226
+  },
+  {
+    "ticker1": "GAZP",
+    "ticker2": "TRNFP",
+    "correlation": 0.5996177197443835
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "NVTK",
+    "correlation": 0.5010642039640925
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "GMKN",
+    "correlation": 0.44098123419987034
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "YNDX",
+    "correlation": null
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "MGNT",
+    "correlation": 0.1345187200207002
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "MTSS",
+    "correlation": 0.3861035073947168
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "SNGS",
+    "correlation": 0.633067819667061
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "SNGSP",
+    "correlation": 0.29166833724574115
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "CHMF",
+    "correlation": 0.30730617683973505
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "ALRS",
+    "correlation": 0.2781625270787527
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "PLZL",
+    "correlation": 0.25935199657108005
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "PHOR",
+    "correlation": 0.1863529053581668
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "IRAO",
+    "correlation": 0.4697471788519411
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "NLMK",
+    "correlation": 0.12567224943910546
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "HYDR",
+    "correlation": 0.4083835331542761
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "AFLT",
+    "correlation": 0.4685155933328663
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "MOEX",
+    "correlation": 0.2411215051139944
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "VTBR",
+    "correlation": 0.2032944883094837
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "MAGN",
+    "correlation": 0.31998668158229954
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "RTKM",
+    "correlation": 0.2647208380206896
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "UPRO",
+    "correlation": 0.4224121609216593
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "TRNFP",
+    "correlation": -0.0026305225818816585
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "MVID",
+    "correlation": 0.4617154406169955
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "PIKK",
+    "correlation": 0.03384891757412412
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "AFKS",
+    "correlation": 0.07261024269431206
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "SFIN",
+    "correlation": 0.4852940442530938
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "LSRG",
+    "correlation": 0.2879491838848537
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "CBOM",
+    "correlation": 0.1597752683221263
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "RNFT",
+    "correlation": 0.11212688231692686
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "RUAL",
+    "correlation": 0.4656787852494752
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "SNGSP",
+    "correlation": 0.29166833724574115
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "SBERP",
+    "correlation": 0.20971239384885138
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "RTKMP",
+    "correlation": 0.2659013288623915
+  },
+  {
+    "ticker1": "TATN",
+    "ticker2": "TRNFP",
+    "correlation": -0.0026305225818816585
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "GMKN",
+    "correlation": 0.9256549615383477
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "YNDX",
+    "correlation": null
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "MGNT",
+    "correlation": 0.09233800580919344
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "MTSS",
+    "correlation": 0.8105990959441408
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "SNGS",
+    "correlation": 0.371205287508953
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "SNGSP",
+    "correlation": 0.896555086680577
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "CHMF",
+    "correlation": 0.8017322655742473
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "ALRS",
+    "correlation": 0.8845035136627624
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "PLZL",
+    "correlation": 0.8382829742901738
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "PHOR",
+    "correlation": -0.27826954063027365
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "IRAO",
+    "correlation": 0.8685011446470912
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "NLMK",
+    "correlation": 0.505009990790571
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "HYDR",
+    "correlation": -0.10347693885677434
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "AFLT",
+    "correlation": 0.721899928626478
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "MOEX",
+    "correlation": 0.852969821950215
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "VTBR",
+    "correlation": 0.5349589336494319
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "MAGN",
+    "correlation": 0.8624759770330213
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "RTKM",
+    "correlation": 0.8508902039080156
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "UPRO",
+    "correlation": 0.12030787585024462
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "TRNFP",
+    "correlation": 0.6795300602124563
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "MVID",
+    "correlation": 0.7899983587812427
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "PIKK",
+    "correlation": 0.6972737106377055
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "AFKS",
+    "correlation": 0.5088077126014121
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "SFIN",
+    "correlation": 0.031009526129507095
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "LSRG",
+    "correlation": 0.7824563735534112
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "CBOM",
+    "correlation": 0.8740064979529446
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "RNFT",
+    "correlation": -0.5331690559518198
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "RUAL",
+    "correlation": 0.8662764068342272
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "SNGSP",
+    "correlation": 0.896555086680577
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "TATNP",
+    "correlation": 0.3353559211631589
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "SBERP",
+    "correlation": 0.7824920936153131
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "RTKMP",
+    "correlation": 0.8402258312644865
+  },
+  {
+    "ticker1": "NVTK",
+    "ticker2": "TRNFP",
+    "correlation": 0.6795300602124563
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "YNDX",
+    "correlation": null
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "MGNT",
+    "correlation": 0.12068180654515133
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "MTSS",
+    "correlation": 0.76625629367005
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "SNGS",
+    "correlation": 0.40647552354332206
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "SNGSP",
+    "correlation": 0.889370440573436
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "CHMF",
+    "correlation": 0.8096936107317744
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "ALRS",
+    "correlation": 0.9181461881906878
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "PLZL",
+    "correlation": 0.8603538597343963
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "PHOR",
+    "correlation": -0.3089758502170347
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "IRAO",
+    "correlation": 0.9019252713881907
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "NLMK",
+    "correlation": 0.5311149793546901
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "HYDR",
+    "correlation": 0.009203566896469374
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "AFLT",
+    "correlation": 0.8143220989109657
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "MOEX",
+    "correlation": 0.8545248509021802
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "VTBR",
+    "correlation": 0.48874468195901544
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "MAGN",
+    "correlation": 0.9003876027481954
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "RTKM",
+    "correlation": 0.9108262408411695
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "UPRO",
+    "correlation": 0.18393808566364334
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "TRNFP",
+    "correlation": 0.6414729190052683
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "MVID",
+    "correlation": 0.7770725304447367
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "PIKK",
+    "correlation": 0.7497998814709256
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "AFKS",
+    "correlation": 0.589114188815632
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "SFIN",
+    "correlation": 0.057640492137927865
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "LSRG",
+    "correlation": 0.7783559910279891
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "CBOM",
+    "correlation": 0.8966525474370074
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "RNFT",
+    "correlation": -0.6416123578766442
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "RUAL",
+    "correlation": 0.9276486689833419
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "SNGSP",
+    "correlation": 0.889370440573436
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "TATNP",
+    "correlation": 0.2545660486414865
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "SBERP",
+    "correlation": 0.8445046398705358
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "RTKMP",
+    "correlation": 0.8884302220939002
+  },
+  {
+    "ticker1": "GMKN",
+    "ticker2": "TRNFP",
+    "correlation": 0.6414729190052683
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "MGNT",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "MTSS",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "SNGS",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "SNGSP",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "CHMF",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "ALRS",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "PLZL",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "PHOR",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "IRAO",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "NLMK",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "HYDR",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "AFLT",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "MOEX",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "VTBR",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "MAGN",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "RTKM",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "UPRO",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "TRNFP",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "MVID",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "PIKK",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "AFKS",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "SFIN",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "LSRG",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "CBOM",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "RNFT",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "RUAL",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "SNGSP",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "TATNP",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "SBERP",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "RTKMP",
+    "correlation": null
+  },
+  {
+    "ticker1": "YNDX",
+    "ticker2": "TRNFP",
+    "correlation": null
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "MTSS",
+    "correlation": -0.2945008856062095
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "SNGS",
+    "correlation": 0.47392681178344154
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "SNGSP",
+    "correlation": -0.05927756775889391
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "CHMF",
+    "correlation": 0.18751654860006825
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "ALRS",
+    "correlation": 0.19680308375868957
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "PLZL",
+    "correlation": 0.2536441391602786
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "PHOR",
+    "correlation": -0.5198872789216065
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "IRAO",
+    "correlation": 0.24419010796015675
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "NLMK",
+    "correlation": 0.6654169947120295
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "HYDR",
+    "correlation": 0.09666099461963186
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "AFLT",
+    "correlation": 0.21159641996568032
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "MOEX",
+    "correlation": -0.22717767126713775
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "VTBR",
+    "correlation": -0.6490324879498017
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "MAGN",
+    "correlation": 0.20070712235119229
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "RTKM",
+    "correlation": 0.15184078217399877
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "UPRO",
+    "correlation": 0.16483116380208457
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "TRNFP",
+    "correlation": -0.4021275303770654
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "MVID",
+    "correlation": -0.23821995008661048
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "PIKK",
+    "correlation": 0.29788916640617946
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "AFKS",
+    "correlation": 0.6360758287619487
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "SFIN",
+    "correlation": 0.4100095167837567
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "LSRG",
+    "correlation": -0.2821997200198683
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "CBOM",
+    "correlation": -0.02161990130538006
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "RNFT",
+    "correlation": 0.1779864288722023
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "RUAL",
+    "correlation": 0.1598726325743119
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "SNGSP",
+    "correlation": -0.05927756775889391
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "TATNP",
+    "correlation": 0.17338337445210575
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "SBERP",
+    "correlation": 0.32635374217464813
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "RTKMP",
+    "correlation": -0.22049068066576336
+  },
+  {
+    "ticker1": "MGNT",
+    "ticker2": "TRNFP",
+    "correlation": -0.4021275303770654
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "SNGS",
+    "correlation": 0.14889457414530416
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "SNGSP",
+    "correlation": 0.8122407927015323
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "CHMF",
+    "correlation": 0.5807320739420067
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "ALRS",
+    "correlation": 0.7015529478594844
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "PLZL",
+    "correlation": 0.6037731769721585
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "PHOR",
+    "correlation": 0.0536286692413027
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "IRAO",
+    "correlation": 0.6652813535807316
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "NLMK",
+    "correlation": 0.0919245795772505
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "HYDR",
+    "correlation": -0.004279813867549564
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "AFLT",
+    "correlation": 0.6963135458447973
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "MOEX",
+    "correlation": 0.9145978370376464
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "VTBR",
+    "correlation": 0.8217166602069839
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "MAGN",
+    "correlation": 0.6376717594735645
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "RTKM",
+    "correlation": 0.7483521359322896
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "UPRO",
+    "correlation": 0.15260697298299172
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "TRNFP",
+    "correlation": 0.7029365974601038
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "MVID",
+    "correlation": 0.898393473284782
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "PIKK",
+    "correlation": 0.4558789874369507
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "AFKS",
+    "correlation": 0.17718646991537676
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "SFIN",
+    "correlation": 0.02140890705014352
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "LSRG",
+    "correlation": 0.8521623843483825
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "CBOM",
+    "correlation": 0.7551245502418266
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "RNFT",
+    "correlation": -0.6622570220553103
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "RUAL",
+    "correlation": 0.736531721917129
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "SNGSP",
+    "correlation": 0.8122407927015323
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "TATNP",
+    "correlation": 0.19840290164597735
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "SBERP",
+    "correlation": 0.5477668244350075
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "RTKMP",
+    "correlation": 0.866814367792707
+  },
+  {
+    "ticker1": "MTSS",
+    "ticker2": "TRNFP",
+    "correlation": 0.7029365974601038
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "CHMF",
+    "correlation": 0.25839375552895344
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "ALRS",
+    "correlation": 0.39578598283619437
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "PLZL",
+    "correlation": 0.4331082904851557
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "PHOR",
+    "correlation": -0.29283838916550775
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "IRAO",
+    "correlation": 0.4923798659111313
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "NLMK",
+    "correlation": 0.41706797079470764
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "HYDR",
+    "correlation": 0.28746062138300005
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "AFLT",
+    "correlation": 0.48878774651921625
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "MOEX",
+    "correlation": 0.14294724010519766
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "VTBR",
+    "correlation": -0.08932497369185445
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "MAGN",
+    "correlation": 0.3637350176581153
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "RTKM",
+    "correlation": 0.40343974954411865
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "UPRO",
+    "correlation": 0.35278830333843736
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "TRNFP",
+    "correlation": -0.10639372700099278
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "MVID",
+    "correlation": 0.32789283116743073
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "PIKK",
+    "correlation": 0.19340561892792907
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "AFKS",
+    "correlation": 0.5241144096570942
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "SFIN",
+    "correlation": 0.4045517167471771
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "LSRG",
+    "correlation": 0.039337045356257594
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "CBOM",
+    "correlation": 0.15885610731820177
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "RNFT",
+    "correlation": 0.02676513688199438
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "RUAL",
+    "correlation": 0.46295620413341987
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "TATNP",
+    "correlation": 0.6937795064161729
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "SBERP",
+    "correlation": 0.292364073538543
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "RTKMP",
+    "correlation": 0.20368437142618337
+  },
+  {
+    "ticker1": "SNGS",
+    "ticker2": "TRNFP",
+    "correlation": -0.10639372700099278
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "CHMF",
+    "correlation": 0.7572421263504147
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "ALRS",
+    "correlation": 0.9047164011705566
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "PLZL",
+    "correlation": 0.9024205264879213
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "PHOR",
+    "correlation": -0.4169378161210116
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "IRAO",
+    "correlation": 0.8595321623041351
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "NLMK",
+    "correlation": 0.4645945660239101
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "HYDR",
+    "correlation": -0.1872824054226801
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "AFLT",
+    "correlation": 0.7097985951277107
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "MOEX",
+    "correlation": 0.9183829337546802
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "VTBR",
+    "correlation": 0.6248412837679493
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "MAGN",
+    "correlation": 0.8693958178601712
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "RTKM",
+    "correlation": 0.9014403723780732
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "UPRO",
+    "correlation": 0.03427180995756363
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "TRNFP",
+    "correlation": 0.8195593918843254
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "MVID",
+    "correlation": 0.8523658537795171
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "PIKK",
+    "correlation": 0.7214829154931133
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "AFKS",
+    "correlation": 0.5587469463750065
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "SFIN",
+    "correlation": -0.1817023660581074
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "LSRG",
+    "correlation": 0.7424599224079712
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "CBOM",
+    "correlation": 0.8925031409286602
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "RNFT",
+    "correlation": -0.6719141473113766
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "RUAL",
+    "correlation": 0.8128554172082758
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "TATNP",
+    "correlation": 0.16815994203559373
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "SBERP",
+    "correlation": 0.7745665490301914
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "RTKMP",
+    "correlation": 0.9266922693992315
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "TRNFP",
+    "correlation": 0.8195593918843254
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "ALRS",
+    "correlation": 0.8654557856180926
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "PLZL",
+    "correlation": 0.8195150465328919
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "PHOR",
+    "correlation": -0.5143633390748117
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "IRAO",
+    "correlation": 0.824630599386592
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "NLMK",
+    "correlation": 0.7304797373002917
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "HYDR",
+    "correlation": -0.31395481032887124
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "AFLT",
+    "correlation": 0.5842022005009039
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "MOEX",
+    "correlation": 0.6871200515367367
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "VTBR",
+    "correlation": 0.24549154118117025
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "MAGN",
+    "correlation": 0.9367839933625358
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "RTKM",
+    "correlation": 0.7842115527682114
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "UPRO",
+    "correlation": -0.048905397751868196
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "TRNFP",
+    "correlation": 0.622900896594526
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "MVID",
+    "correlation": 0.5440423417437088
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "PIKK",
+    "correlation": 0.8860912905731684
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "AFKS",
+    "correlation": 0.6089743115632448
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "SFIN",
+    "correlation": -0.11627195686181101
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "LSRG",
+    "correlation": 0.5796082586681273
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "CBOM",
+    "correlation": 0.8492475731225071
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "RNFT",
+    "correlation": -0.33972919802483076
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "RUAL",
+    "correlation": 0.7120092993062177
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "SNGSP",
+    "correlation": 0.757242126350414
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "TATNP",
+    "correlation": 0.18897685958019364
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "SBERP",
+    "correlation": 0.8944903008087807
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "RTKMP",
+    "correlation": 0.675554954497331
+  },
+  {
+    "ticker1": "CHMF",
+    "ticker2": "TRNFP",
+    "correlation": 0.622900896594526
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "PLZL",
+    "correlation": 0.9270021990345875
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "PHOR",
+    "correlation": -0.5527369785233851
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "IRAO",
+    "correlation": 0.9175530663324795
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "NLMK",
+    "correlation": 0.6504761427587915
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "HYDR",
+    "correlation": -0.14846964044784053
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "AFLT",
+    "correlation": 0.7352956585582494
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "MOEX",
+    "correlation": 0.8208334819440546
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "VTBR",
+    "correlation": 0.39929466552458376
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "MAGN",
+    "correlation": 0.9352964984026
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "RTKM",
+    "correlation": 0.9333781678981183
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "UPRO",
+    "correlation": 0.10297605404327503
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "TRNFP",
+    "correlation": 0.6516872480713151
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "MVID",
+    "correlation": 0.7287713219568108
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "PIKK",
+    "correlation": 0.8448038660017583
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "AFKS",
+    "correlation": 0.7408536533018694
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "SFIN",
+    "correlation": -0.018538579424510614
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "LSRG",
+    "correlation": 0.6795418446316592
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "CBOM",
+    "correlation": 0.9147090044347248
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "RNFT",
+    "correlation": -0.6010604056284247
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "RUAL",
+    "correlation": 0.8759493570989385
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "SNGSP",
+    "correlation": 0.9047164011705566
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "TATNP",
+    "correlation": 0.1556224149948144
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "SBERP",
+    "correlation": 0.8656462564806798
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "RTKMP",
+    "correlation": 0.851699387044241
+  },
+  {
+    "ticker1": "ALRS",
+    "ticker2": "TRNFP",
+    "correlation": 0.6516872480713151
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "PHOR",
+    "correlation": -0.6617850286368226
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "IRAO",
+    "correlation": 0.893067043233852
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "NLMK",
+    "correlation": 0.7086454190589615
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "HYDR",
+    "correlation": -0.2646351551095761
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "AFLT",
+    "correlation": 0.654708065023798
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "MOEX",
+    "correlation": 0.7643319849702759
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "VTBR",
+    "correlation": 0.3271561067576173
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "MAGN",
+    "correlation": 0.926832870049422
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "RTKM",
+    "correlation": 0.909087106148145
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "UPRO",
+    "correlation": -0.02621916791695348
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "TRNFP",
+    "correlation": 0.6739789843912429
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "MVID",
+    "correlation": 0.6849360781921009
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "PIKK",
+    "correlation": 0.8306742972747527
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "AFKS",
+    "correlation": 0.7679368493767399
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "SFIN",
+    "correlation": -0.121299013143012
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "LSRG",
+    "correlation": 0.5470466780400908
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "CBOM",
+    "correlation": 0.8533041796649841
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "RNFT",
+    "correlation": -0.544964903151803
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "RUAL",
+    "correlation": 0.8002316764725068
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "SNGSP",
+    "correlation": 0.9024205264879211
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "TATNP",
+    "correlation": 0.16897942345735054
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "SBERP",
+    "correlation": 0.8517121538192927
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "RTKMP",
+    "correlation": 0.7997998444144903
+  },
+  {
+    "ticker1": "PLZL",
+    "ticker2": "TRNFP",
+    "correlation": 0.6739789843912429
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "IRAO",
+    "correlation": -0.49446896770049525
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "NLMK",
+    "correlation": -0.7923338956546039
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "HYDR",
+    "correlation": 0.4629486424920738
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "AFLT",
+    "correlation": -0.15629582234995715
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "MOEX",
+    "correlation": -0.1575793850685467
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "VTBR",
+    "correlation": 0.32332697129556154
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "MAGN",
+    "correlation": -0.5560301399908909
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "RTKM",
+    "correlation": -0.4637200319046687
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "UPRO",
+    "correlation": 0.25713520276914553
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "TRNFP",
+    "correlation": -0.24532031147325103
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "MVID",
+    "correlation": -0.04325064057858768
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "PIKK",
+    "correlation": -0.6892290098836233
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "AFKS",
+    "correlation": -0.8220821911397916
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "SFIN",
+    "correlation": 0.26550928364449167
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "LSRG",
+    "correlation": 0.09080852909001709
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "CBOM",
+    "correlation": -0.3953266864824305
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "RNFT",
+    "correlation": 0.06561554593531956
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "RUAL",
+    "correlation": -0.24464747536173057
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "SNGSP",
+    "correlation": -0.41693781612101183
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "TATNP",
+    "correlation": 0.10345648642031136
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "SBERP",
+    "correlation": -0.5875530432886562
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "RTKMP",
+    "correlation": -0.2045689370797196
+  },
+  {
+    "ticker1": "PHOR",
+    "ticker2": "TRNFP",
+    "correlation": -0.24532031147325103
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "NLMK",
+    "correlation": 0.6488556035470031
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "HYDR",
+    "correlation": -0.026269665865144353
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "AFLT",
+    "correlation": 0.7426374447418107
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "MOEX",
+    "correlation": 0.7410933838500976
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "VTBR",
+    "correlation": 0.36975376716509006
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "MAGN",
+    "correlation": 0.9088270339413121
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "RTKM",
+    "correlation": 0.8540189294077732
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "UPRO",
+    "correlation": 0.21909339055877253
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "TRNFP",
+    "correlation": 0.5586003479636594
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "MVID",
+    "correlation": 0.7419644472413129
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "PIKK",
+    "correlation": 0.74087207426502
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "AFKS",
+    "correlation": 0.6745966338442423
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "SFIN",
+    "correlation": 0.0630916324714683
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "LSRG",
+    "correlation": 0.6532793380121066
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "CBOM",
+    "correlation": 0.8087793975006418
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "RNFT",
+    "correlation": -0.48710093753604644
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "RUAL",
+    "correlation": 0.8710474847898573
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "SNGSP",
+    "correlation": 0.8595321623041351
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "TATNP",
+    "correlation": 0.34090548767419104
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "SBERP",
+    "correlation": 0.8031793939906255
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "RTKMP",
+    "correlation": 0.7987001928068934
+  },
+  {
+    "ticker1": "IRAO",
+    "ticker2": "TRNFP",
+    "correlation": 0.5586003479636594
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "HYDR",
+    "correlation": -0.3253495168984023
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "AFLT",
+    "correlation": 0.3820566264175334
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "MOEX",
+    "correlation": 0.2713896532976981
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "VTBR",
+    "correlation": -0.29696343865881675
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "MAGN",
+    "correlation": 0.7261139495200477
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "RTKM",
+    "correlation": 0.5663178204371541
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "UPRO",
+    "correlation": -0.09986175049650564
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "TRNFP",
+    "correlation": 0.23861078468143557
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "MVID",
+    "correlation": 0.12660383906655787
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "PIKK",
+    "correlation": 0.803899114276157
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "AFKS",
+    "correlation": 0.8200370569626094
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "SFIN",
+    "correlation": -0.06941924200893951
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "LSRG",
+    "correlation": 0.10260686976141149
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "CBOM",
+    "correlation": 0.5139908316901832
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "RNFT",
+    "correlation": -0.06439813149352884
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "RUAL",
+    "correlation": 0.46249679611340744
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "SNGSP",
+    "correlation": 0.46459456602391014
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "TATNP",
+    "correlation": 0.16599518655087542
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "SBERP",
+    "correlation": 0.748712416442397
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "RTKMP",
+    "correlation": 0.2538182536680214
+  },
+  {
+    "ticker1": "NLMK",
+    "ticker2": "TRNFP",
+    "correlation": 0.23861078468143557
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "AFLT",
+    "correlation": 0.3202313636455064
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "MOEX",
+    "correlation": -0.13046232615729267
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "VTBR",
+    "correlation": 0.049278911498505516
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "MAGN",
+    "correlation": -0.22746618231534005
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "RTKM",
+    "correlation": -0.08787395186964313
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "UPRO",
+    "correlation": 0.8271002483195853
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "TRNFP",
+    "correlation": -0.4755962200812599
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "MVID",
+    "correlation": 0.107133646024581
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "PIKK",
+    "correlation": -0.3797290172004768
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "AFKS",
+    "correlation": -0.1135000336118351
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "SFIN",
+    "correlation": 0.7156189806784328
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "LSRG",
+    "correlation": 0.05520199181055314
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "CBOM",
+    "correlation": -0.2602609788654506
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "RNFT",
+    "correlation": -0.08188766669382805
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "RUAL",
+    "correlation": 0.11884698260049838
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "SNGSP",
+    "correlation": -0.18728240542268015
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "TATNP",
+    "correlation": 0.33429674542861565
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "SBERP",
+    "correlation": -0.22657482055928466
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "RTKMP",
+    "correlation": -0.028969868693145506
+  },
+  {
+    "ticker1": "HYDR",
+    "ticker2": "TRNFP",
+    "correlation": -0.4755962200812599
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "MOEX",
+    "correlation": 0.7238829747196918
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "VTBR",
+    "correlation": 0.4119211077684516
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "MAGN",
+    "correlation": 0.7043987107054871
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "RTKM",
+    "correlation": 0.8144076507924879
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "UPRO",
+    "correlation": 0.39381477416535354
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "TRNFP",
+    "correlation": 0.37515119896409144
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "MVID",
+    "correlation": 0.7339805415767412
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "PIKK",
+    "correlation": 0.5907566102961337
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "AFKS",
+    "correlation": 0.54212913431589
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "SFIN",
+    "correlation": 0.3280028346749746
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "LSRG",
+    "correlation": 0.6552658593983652
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "CBOM",
+    "correlation": 0.6688498790886208
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "RNFT",
+    "correlation": -0.6361011755301827
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "RUAL",
+    "correlation": 0.7882429257642286
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "SNGSP",
+    "correlation": 0.7097985951277107
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "TATNP",
+    "correlation": 0.31320481951178825
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "SBERP",
+    "correlation": 0.7040640612603463
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "RTKMP",
+    "correlation": 0.7331542859918572
+  },
+  {
+    "ticker1": "AFLT",
+    "ticker2": "TRNFP",
+    "correlation": 0.37515119896409144
+  },
+  {
+    "ticker1": "MOEX",
+    "ticker2": "VTBR",
+    "correlation": 0.7829495360078957
+  },
+  {
+    "ticker1": "MOEX",
+    "ticker2": "MAGN",
+    "correlation": 0.7869608536017908
+  },
+  {
+    "ticker1": "MOEX",
+    "ticker2": "RTKM",
+    "correlation": 0.87281661433307
+  },
+  {
+    "ticker1": "MOEX",
+    "ticker2": "UPRO",
+    "correlation": 0.05230703397403721
+  },
+  {
+    "ticker1": "MOEX",
+    "ticker2": "TRNFP",
+    "correlation": 0.8499406074866842
+  },
+  {
+    "ticker1": "MOEX",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "MOEX",
+    "ticker2": "MVID",
+    "correlation": 0.8963793982128166
+  },
+  {
+    "ticker1": "MOEX",
+    "ticker2": "PIKK",
+    "correlation": 0.6354816507099771
+  },
+  {
+    "ticker1": "MOEX",
+    "ticker2": "AFKS",
+    "correlation": 0.3612289206340861
+  },
+  {
+    "ticker1": "MOEX",
+    "ticker2": "SFIN",
+    "correlation": -0.13997791776387605
+  },
+  {
+    "ticker1": "MOEX",
+    "ticker2": "LSRG",
+    "correlation": 0.8678158568902676
+  },
+  {
+    "ticker1": "MOEX",
+    "ticker2": "CBOM",
+    "correlation": 0.8845911343034739
+  },
+  {
+    "ticker1": "MOEX",
+    "ticker2": "RNFT",
+    "correlation": -0.7772060742530835
+  },
+  {
+    "ticker1": "MOEX",
+    "ticker2": "RUAL",
+    "correlation": 0.8055121432547182
+  },
+  {
+    "ticker1": "MOEX",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "MOEX",
+    "ticker2": "SNGSP",
+    "correlation": 0.91838293375468
+  },
+  {
+    "ticker1": "MOEX",
+    "ticker2": "TATNP",
+    "correlation": 0.08355158684790485
+  },
+  {
+    "ticker1": "MOEX",
+    "ticker2": "SBERP",
+    "correlation": 0.6821254136332213
+  },
+  {
+    "ticker1": "MOEX",
+    "ticker2": "RTKMP",
+    "correlation": 0.9502829701271525
+  },
+  {
+    "ticker1": "MOEX",
+    "ticker2": "TRNFP",
+    "correlation": 0.8499406074866842
+  },
+  {
+    "ticker1": "VTBR",
+    "ticker2": "MAGN",
+    "correlation": 0.34267682716176223
+  },
+  {
+    "ticker1": "VTBR",
+    "ticker2": "RTKM",
+    "correlation": 0.45303904834988973
+  },
+  {
+    "ticker1": "VTBR",
+    "ticker2": "UPRO",
+    "correlation": 0.13839974790984746
+  },
+  {
+    "ticker1": "VTBR",
+    "ticker2": "TRNFP",
+    "correlation": 0.6983131592554016
+  },
+  {
+    "ticker1": "VTBR",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "VTBR",
+    "ticker2": "MVID",
+    "correlation": 0.8281118307024408
+  },
+  {
+    "ticker1": "VTBR",
+    "ticker2": "PIKK",
+    "correlation": 0.08233496233200767
+  },
+  {
+    "ticker1": "VTBR",
+    "ticker2": "AFKS",
+    "correlation": -0.18737398836976438
+  },
+  {
+    "ticker1": "VTBR",
+    "ticker2": "SFIN",
+    "correlation": -0.14726653167152168
+  },
+  {
+    "ticker1": "VTBR",
+    "ticker2": "LSRG",
+    "correlation": 0.7666593086597114
+  },
+  {
+    "ticker1": "VTBR",
+    "ticker2": "CBOM",
+    "correlation": 0.5341381519425213
+  },
+  {
+    "ticker1": "VTBR",
+    "ticker2": "RNFT",
+    "correlation": -0.6608381603137383
+  },
+  {
+    "ticker1": "VTBR",
+    "ticker2": "RUAL",
+    "correlation": 0.5134566455657275
+  },
+  {
+    "ticker1": "VTBR",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "VTBR",
+    "ticker2": "SNGSP",
+    "correlation": 0.6248412837679491
+  },
+  {
+    "ticker1": "VTBR",
+    "ticker2": "TATNP",
+    "correlation": 0.05802336794105531
+  },
+  {
+    "ticker1": "VTBR",
+    "ticker2": "SBERP",
+    "correlation": 0.1526480190457449
+  },
+  {
+    "ticker1": "VTBR",
+    "ticker2": "RTKMP",
+    "correlation": 0.7556396164336772
+  },
+  {
+    "ticker1": "VTBR",
+    "ticker2": "TRNFP",
+    "correlation": 0.6983131592554016
+  },
+  {
+    "ticker1": "MAGN",
+    "ticker2": "RTKM",
+    "correlation": 0.8855229660581471
+  },
+  {
+    "ticker1": "MAGN",
+    "ticker2": "UPRO",
+    "correlation": 0.03556866727288321
+  },
+  {
+    "ticker1": "MAGN",
+    "ticker2": "TRNFP",
+    "correlation": 0.6781834108718736
+  },
+  {
+    "ticker1": "MAGN",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "MAGN",
+    "ticker2": "MVID",
+    "correlation": 0.6725970526760034
+  },
+  {
+    "ticker1": "MAGN",
+    "ticker2": "PIKK",
+    "correlation": 0.8921305162703919
+  },
+  {
+    "ticker1": "MAGN",
+    "ticker2": "AFKS",
+    "correlation": 0.7051538102851198
+  },
+  {
+    "ticker1": "MAGN",
+    "ticker2": "SFIN",
+    "correlation": -0.1028752059812024
+  },
+  {
+    "ticker1": "MAGN",
+    "ticker2": "LSRG",
+    "correlation": 0.6468765958816253
+  },
+  {
+    "ticker1": "MAGN",
+    "ticker2": "CBOM",
+    "correlation": 0.9031826154667041
+  },
+  {
+    "ticker1": "MAGN",
+    "ticker2": "RNFT",
+    "correlation": -0.4979118595682645
+  },
+  {
+    "ticker1": "MAGN",
+    "ticker2": "RUAL",
+    "correlation": 0.8218754194754689
+  },
+  {
+    "ticker1": "MAGN",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "MAGN",
+    "ticker2": "SNGSP",
+    "correlation": 0.8693958178601715
+  },
+  {
+    "ticker1": "MAGN",
+    "ticker2": "TATNP",
+    "correlation": 0.20598623093366852
+  },
+  {
+    "ticker1": "MAGN",
+    "ticker2": "SBERP",
+    "correlation": 0.9112773521377073
+  },
+  {
+    "ticker1": "MAGN",
+    "ticker2": "RTKMP",
+    "correlation": 0.7996959388104858
+  },
+  {
+    "ticker1": "MAGN",
+    "ticker2": "TRNFP",
+    "correlation": 0.6781834108718736
+  },
+  {
+    "ticker1": "RTKM",
+    "ticker2": "UPRO",
+    "correlation": 0.09915919212512335
+  },
+  {
+    "ticker1": "RTKM",
+    "ticker2": "TRNFP",
+    "correlation": 0.6662889510628297
+  },
+  {
+    "ticker1": "RTKM",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "RTKM",
+    "ticker2": "MVID",
+    "correlation": 0.7777796212907606
+  },
+  {
+    "ticker1": "RTKM",
+    "ticker2": "PIKK",
+    "correlation": 0.8118234516165852
+  },
+  {
+    "ticker1": "RTKM",
+    "ticker2": "AFKS",
+    "correlation": 0.6967033828640093
+  },
+  {
+    "ticker1": "RTKM",
+    "ticker2": "SFIN",
+    "correlation": 0.024391519489099064
+  },
+  {
+    "ticker1": "RTKM",
+    "ticker2": "LSRG",
+    "correlation": 0.6884447307741793
+  },
+  {
+    "ticker1": "RTKM",
+    "ticker2": "CBOM",
+    "correlation": 0.8914655553226805
+  },
+  {
+    "ticker1": "RTKM",
+    "ticker2": "RNFT",
+    "correlation": -0.7177181728517238
+  },
+  {
+    "ticker1": "RTKM",
+    "ticker2": "RUAL",
+    "correlation": 0.8602034886640638
+  },
+  {
+    "ticker1": "RTKM",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "RTKM",
+    "ticker2": "SNGSP",
+    "correlation": 0.901440372378073
+  },
+  {
+    "ticker1": "RTKM",
+    "ticker2": "TATNP",
+    "correlation": 0.1312969914548811
+  },
+  {
+    "ticker1": "RTKM",
+    "ticker2": "SBERP",
+    "correlation": 0.8447501429885039
+  },
+  {
+    "ticker1": "RTKM",
+    "ticker2": "TRNFP",
+    "correlation": 0.6662889510628297
+  },
+  {
+    "ticker1": "UPRO",
+    "ticker2": "TRNFP",
+    "correlation": -0.3112170991073378
+  },
+  {
+    "ticker1": "UPRO",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "UPRO",
+    "ticker2": "MVID",
+    "correlation": 0.26176141379876117
+  },
+  {
+    "ticker1": "UPRO",
+    "ticker2": "PIKK",
+    "correlation": -0.15781154175988904
+  },
+  {
+    "ticker1": "UPRO",
+    "ticker2": "AFKS",
+    "correlation": 0.11720802602382588
+  },
+  {
+    "ticker1": "UPRO",
+    "ticker2": "SFIN",
+    "correlation": 0.6612696564861502
+  },
+  {
+    "ticker1": "UPRO",
+    "ticker2": "LSRG",
+    "correlation": 0.23636778725449606
+  },
+  {
+    "ticker1": "UPRO",
+    "ticker2": "CBOM",
+    "correlation": -0.02382948830779009
+  },
+  {
+    "ticker1": "UPRO",
+    "ticker2": "RNFT",
+    "correlation": -0.15756416949152666
+  },
+  {
+    "ticker1": "UPRO",
+    "ticker2": "RUAL",
+    "correlation": 0.30585456843163517
+  },
+  {
+    "ticker1": "UPRO",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "UPRO",
+    "ticker2": "SNGSP",
+    "correlation": 0.034271809957563626
+  },
+  {
+    "ticker1": "UPRO",
+    "ticker2": "TATNP",
+    "correlation": 0.3494082124762545
+  },
+  {
+    "ticker1": "UPRO",
+    "ticker2": "SBERP",
+    "correlation": -0.015159321103453747
+  },
+  {
+    "ticker1": "UPRO",
+    "ticker2": "RTKMP",
+    "correlation": 0.15298568626974068
+  },
+  {
+    "ticker1": "UPRO",
+    "ticker2": "TRNFP",
+    "correlation": -0.3112170991073378
+  },
+  {
+    "ticker1": "TRNFP",
+    "ticker2": "LNTA",
+    "correlation": null
+  },
+  {
+    "ticker1": "TRNFP",
+    "ticker2": "MVID",
+    "correlation": 0.6912559807360034
+  },
+  {
+    "ticker1": "TRNFP",
+    "ticker2": "PIKK",
+    "correlation": 0.5771162560461007
+  },
+  {
+    "ticker1": "TRNFP",
+    "ticker2": "AFKS",
+    "correlation": 0.1973378969812815
+  },
+  {
+    "ticker1": "TRNFP",
+    "ticker2": "SFIN",
+    "correlation": -0.5630196993773767
+  },
+  {
+    "ticker1": "TRNFP",
+    "ticker2": "LSRG",
+    "correlation": 0.6580222731111752
+  },
+  {
+    "ticker1": "TRNFP",
+    "ticker2": "CBOM",
+    "correlation": 0.7671644557663545
+  },
+  {
+    "ticker1": "TRNFP",
+    "ticker2": "RNFT",
+    "correlation": -0.5939424563801483
+  },
+  {
+    "ticker1": "TRNFP",
+    "ticker2": "RUAL",
+    "correlation": 0.54624421877235
+  },
+  {
+    "ticker1": "TRNFP",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "TRNFP",
+    "ticker2": "SNGSP",
+    "correlation": 0.8195593918843254
+  },
+  {
+    "ticker1": "TRNFP",
+    "ticker2": "TATNP",
+    "correlation": -0.08816494390875886
+  },
+  {
+    "ticker1": "TRNFP",
+    "ticker2": "SBERP",
+    "correlation": 0.5674545405668329
+  },
+  {
+    "ticker1": "TRNFP",
+    "ticker2": "RTKMP",
+    "correlation": 0.7931320905970857
+  },
+  {
+    "ticker1": "LNTA",
+    "ticker2": "MVID",
+    "correlation": null
+  },
+  {
+    "ticker1": "LNTA",
+    "ticker2": "PIKK",
+    "correlation": null
+  },
+  {
+    "ticker1": "LNTA",
+    "ticker2": "AFKS",
+    "correlation": null
+  },
+  {
+    "ticker1": "LNTA",
+    "ticker2": "SFIN",
+    "correlation": null
+  },
+  {
+    "ticker1": "LNTA",
+    "ticker2": "LSRG",
+    "correlation": null
+  },
+  {
+    "ticker1": "LNTA",
+    "ticker2": "CBOM",
+    "correlation": null
+  },
+  {
+    "ticker1": "LNTA",
+    "ticker2": "RNFT",
+    "correlation": null
+  },
+  {
+    "ticker1": "LNTA",
+    "ticker2": "RUAL",
+    "correlation": null
+  },
+  {
+    "ticker1": "LNTA",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "LNTA",
+    "ticker2": "SNGSP",
+    "correlation": null
+  },
+  {
+    "ticker1": "LNTA",
+    "ticker2": "TATNP",
+    "correlation": null
+  },
+  {
+    "ticker1": "LNTA",
+    "ticker2": "SBERP",
+    "correlation": null
+  },
+  {
+    "ticker1": "LNTA",
+    "ticker2": "RTKMP",
+    "correlation": null
+  },
+  {
+    "ticker1": "LNTA",
+    "ticker2": "TRNFP",
+    "correlation": null
+  },
+  {
+    "ticker1": "MVID",
+    "ticker2": "PIKK",
+    "correlation": 0.4014409677674934
+  },
+  {
+    "ticker1": "MVID",
+    "ticker2": "AFKS",
+    "correlation": 0.26071902217239185
+  },
+  {
+    "ticker1": "MVID",
+    "ticker2": "SFIN",
+    "correlation": 0.05984315247619121
+  },
+  {
+    "ticker1": "MVID",
+    "ticker2": "LSRG",
+    "correlation": 0.7862125039152644
+  },
+  {
+    "ticker1": "MVID",
+    "ticker2": "CBOM",
+    "correlation": 0.7173158265307483
+  },
+  {
+    "ticker1": "MVID",
+    "ticker2": "RNFT",
+    "correlation": -0.6851574431533034
+  },
+  {
+    "ticker1": "MVID",
+    "ticker2": "RUAL",
+    "correlation": 0.7849068635178665
+  },
+  {
+    "ticker1": "MVID",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "MVID",
+    "ticker2": "SNGSP",
+    "correlation": 0.8523658537795168
+  },
+  {
+    "ticker1": "MVID",
+    "ticker2": "TATNP",
+    "correlation": 0.3246921038995917
+  },
+  {
+    "ticker1": "MVID",
+    "ticker2": "SBERP",
+    "correlation": 0.4960150186344627
+  },
+  {
+    "ticker1": "MVID",
+    "ticker2": "RTKMP",
+    "correlation": 0.8936892421223891
+  },
+  {
+    "ticker1": "MVID",
+    "ticker2": "TRNFP",
+    "correlation": 0.691255980736003
+  },
+  {
+    "ticker1": "PIKK",
+    "ticker2": "AFKS",
+    "correlation": 0.770184748262523
+  },
+  {
+    "ticker1": "PIKK",
+    "ticker2": "SFIN",
+    "correlation": -0.1905682235304921
+  },
+  {
+    "ticker1": "PIKK",
+    "ticker2": "LSRG",
+    "correlation": 0.48641363145801764
+  },
+  {
+    "ticker1": "PIKK",
+    "ticker2": "CBOM",
+    "correlation": 0.8356383275763212
+  },
+  {
+    "ticker1": "PIKK",
+    "ticker2": "RNFT",
+    "correlation": -0.4272288314547987
+  },
+  {
+    "ticker1": "PIKK",
+    "ticker2": "RUAL",
+    "correlation": 0.6179590778892918
+  },
+  {
+    "ticker1": "PIKK",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "PIKK",
+    "ticker2": "SNGSP",
+    "correlation": 0.7214829154931133
+  },
+  {
+    "ticker1": "PIKK",
+    "ticker2": "TATNP",
+    "correlation": -0.04942660085381903
+  },
+  {
+    "ticker1": "PIKK",
+    "ticker2": "SBERP",
+    "correlation": 0.9355377628862216
+  },
+  {
+    "ticker1": "PIKK",
+    "ticker2": "RTKMP",
+    "correlation": 0.625043907057468
+  },
+  {
+    "ticker1": "PIKK",
+    "ticker2": "TRNFP",
+    "correlation": 0.577116256046101
+  },
+  {
+    "ticker1": "AFKS",
+    "ticker2": "SFIN",
+    "correlation": 0.11692328765397762
+  },
+  {
+    "ticker1": "AFKS",
+    "ticker2": "LSRG",
+    "correlation": 0.19742484450979117
+  },
+  {
+    "ticker1": "AFKS",
+    "ticker2": "CBOM",
+    "correlation": 0.5661082219428287
+  },
+  {
+    "ticker1": "AFKS",
+    "ticker2": "RNFT",
+    "correlation": -0.31911194985368463
+  },
+  {
+    "ticker1": "AFKS",
+    "ticker2": "RUAL",
+    "correlation": 0.5598796271835614
+  },
+  {
+    "ticker1": "AFKS",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "AFKS",
+    "ticker2": "SNGSP",
+    "correlation": 0.5587469463750068
+  },
+  {
+    "ticker1": "AFKS",
+    "ticker2": "TATNP",
+    "correlation": 0.06820993919772654
+  },
+  {
+    "ticker1": "AFKS",
+    "ticker2": "SBERP",
+    "correlation": 0.7519546243561898
+  },
+  {
+    "ticker1": "AFKS",
+    "ticker2": "RTKMP",
+    "correlation": 0.41773383435730055
+  },
+  {
+    "ticker1": "AFKS",
+    "ticker2": "TRNFP",
+    "correlation": 0.19733789698128157
+  },
+  {
+    "ticker1": "SFIN",
+    "ticker2": "LSRG",
+    "correlation": 0.006779717259849989
+  },
+  {
+    "ticker1": "SFIN",
+    "ticker2": "CBOM",
+    "correlation": -0.15441337256286264
+  },
+  {
+    "ticker1": "SFIN",
+    "ticker2": "RNFT",
+    "correlation": 0.016936792571770918
+  },
+  {
+    "ticker1": "SFIN",
+    "ticker2": "RUAL",
+    "correlation": 0.16815583629895417
+  },
+  {
+    "ticker1": "SFIN",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "SFIN",
+    "ticker2": "SNGSP",
+    "correlation": -0.18170236605810713
+  },
+  {
+    "ticker1": "SFIN",
+    "ticker2": "TATNP",
+    "correlation": 0.3912484746835388
+  },
+  {
+    "ticker1": "SFIN",
+    "ticker2": "SBERP",
+    "correlation": -0.06180363977685226
+  },
+  {
+    "ticker1": "SFIN",
+    "ticker2": "RTKMP",
+    "correlation": -0.09344170887204366
+  },
+  {
+    "ticker1": "SFIN",
+    "ticker2": "TRNFP",
+    "correlation": -0.5630196993773766
+  },
+  {
+    "ticker1": "LSRG",
+    "ticker2": "CBOM",
+    "correlation": 0.7991972327101133
+  },
+  {
+    "ticker1": "LSRG",
+    "ticker2": "RNFT",
+    "correlation": -0.700197889948056
+  },
+  {
+    "ticker1": "LSRG",
+    "ticker2": "RUAL",
+    "correlation": 0.740144531175247
+  },
+  {
+    "ticker1": "LSRG",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "LSRG",
+    "ticker2": "SNGSP",
+    "correlation": 0.7424599224079714
+  },
+  {
+    "ticker1": "LSRG",
+    "ticker2": "TATNP",
+    "correlation": 0.08356376258331871
+  },
+  {
+    "ticker1": "LSRG",
+    "ticker2": "SBERP",
+    "correlation": 0.5519175581901573
+  },
+  {
+    "ticker1": "LSRG",
+    "ticker2": "RTKMP",
+    "correlation": 0.8580660613625208
+  },
+  {
+    "ticker1": "LSRG",
+    "ticker2": "TRNFP",
+    "correlation": 0.6580222731111752
+  },
+  {
+    "ticker1": "CBOM",
+    "ticker2": "RNFT",
+    "correlation": -0.6948665445177916
+  },
+  {
+    "ticker1": "CBOM",
+    "ticker2": "RUAL",
+    "correlation": 0.8169910902540322
+  },
+  {
+    "ticker1": "CBOM",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "CBOM",
+    "ticker2": "SNGSP",
+    "correlation": 0.8925031409286605
+  },
+  {
+    "ticker1": "CBOM",
+    "ticker2": "TATNP",
+    "correlation": -0.013046597758990261
+  },
+  {
+    "ticker1": "CBOM",
+    "ticker2": "SBERP",
+    "correlation": 0.8392247988724125
+  },
+  {
+    "ticker1": "CBOM",
+    "ticker2": "RTKMP",
+    "correlation": 0.8958678948985093
+  },
+  {
+    "ticker1": "CBOM",
+    "ticker2": "TRNFP",
+    "correlation": 0.7671644557663547
+  },
+  {
+    "ticker1": "RNFT",
+    "ticker2": "RUAL",
+    "correlation": -0.6434866951620105
+  },
+  {
+    "ticker1": "RNFT",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "RNFT",
+    "ticker2": "SNGSP",
+    "correlation": -0.6719141473113766
+  },
+  {
+    "ticker1": "RNFT",
+    "ticker2": "TATNP",
+    "correlation": 0.30370533898053714
+  },
+  {
+    "ticker1": "RNFT",
+    "ticker2": "SBERP",
+    "correlation": -0.46322950986799255
+  },
+  {
+    "ticker1": "RNFT",
+    "ticker2": "RTKMP",
+    "correlation": -0.8029628612383887
+  },
+  {
+    "ticker1": "RNFT",
+    "ticker2": "TRNFP",
+    "correlation": -0.5939424563801482
+  },
+  {
+    "ticker1": "RUAL",
+    "ticker2": "FIVE",
+    "correlation": null
+  },
+  {
+    "ticker1": "RUAL",
+    "ticker2": "SNGSP",
+    "correlation": 0.8128554172082753
+  },
+  {
+    "ticker1": "RUAL",
+    "ticker2": "TATNP",
+    "correlation": 0.30084309730522246
+  },
+  {
+    "ticker1": "RUAL",
+    "ticker2": "SBERP",
+    "correlation": 0.7141972923436584
+  },
+  {
+    "ticker1": "RUAL",
+    "ticker2": "RTKMP",
+    "correlation": 0.8469588950715886
+  },
+  {
+    "ticker1": "RUAL",
+    "ticker2": "TRNFP",
+    "correlation": 0.5462442187723497
+  },
+  {
+    "ticker1": "FIVE",
+    "ticker2": "SNGSP",
+    "correlation": null
+  },
+  {
+    "ticker1": "FIVE",
+    "ticker2": "TATNP",
+    "correlation": null
+  },
+  {
+    "ticker1": "FIVE",
+    "ticker2": "SBERP",
+    "correlation": null
+  },
+  {
+    "ticker1": "FIVE",
+    "ticker2": "RTKMP",
+    "correlation": null
+  },
+  {
+    "ticker1": "FIVE",
+    "ticker2": "TRNFP",
+    "correlation": null
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "TATNP",
+    "correlation": 0.16815994203559373
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "SBERP",
+    "correlation": 0.7745665490301914
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "RTKMP",
+    "correlation": 0.9266922693992315
+  },
+  {
+    "ticker1": "SNGSP",
+    "ticker2": "TRNFP",
+    "correlation": 0.8195593918843254
+  },
+  {
+    "ticker1": "TATNP",
+    "ticker2": "SBERP",
+    "correlation": 0.06393859782785898
+  },
+  {
+    "ticker1": "TATNP",
+    "ticker2": "RTKMP",
+    "correlation": 0.07602693749018713
+  },
+  {
+    "ticker1": "TATNP",
+    "ticker2": "TRNFP",
+    "correlation": -0.0881649439087589
+  },
+  {
+    "ticker1": "SBERP",
+    "ticker2": "RTKMP",
+    "correlation": 0.686981750963797
+  },
+  {
+    "ticker1": "SBERP",
+    "ticker2": "TRNFP",
+    "correlation": 0.567454540566833
+  },
+  {
+    "ticker1": "RTKMP",
+    "ticker2": "TRNFP",
+    "correlation": 0.7931320905970856
+  }
+]
