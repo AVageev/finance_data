@@ -43,3 +43,4 @@ pip install -r requirements.txt
 
 cp .env.example .env # создаем .env  Важно: файл google_sheets_api.json вы создаёте сами — он не включён в репозиторий по соображениям безопасности.  
 
+python3 manage.py runserver # запуск проекта, переходим по http://127.0.0.1:8000/
