@@ -30,8 +30,16 @@
 
 ## 🚀 Установка и запуск  
 
-### 1. Клонируйте репозиторий  
+### 1. Клонируйте репозиторий 
 
 ```bash  
-git clone https://github.com/your-username/your-repo.git  
-cd your-repo  
+git clone https://github.com/AVageev/finance_data.git  
+cd parser  
+
+python -m venv venv # настройка вирт. окружения  
+source venv/bin/activate      # Linux/macOS  
+venv\Scripts\activate         # Windows  
+pip install -r requirements.txt  
+
+cp .env.example .env # создаем .env  Важно: файл google_sheets_api.json вы создаёте сами — он не включён в репозиторий по соображениям безопасности.  
+
